@@ -2,7 +2,7 @@
 
 Projeto simples de cronômetro desenvolvido em JavaScript puro, praticando lógica de programação, eventos e manipulação do DOM.
 
-##Sobre o projeto
+## Sobre o projeto
 
 O cronômetro permite iniciar, pausar, continuar, resetar e marcar tempos durante a contagem. Também possui validações básicas para evitar marcações incorretas.
 
