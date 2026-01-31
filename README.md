@@ -1,4 +1,4 @@
-##Cronômetro em JavaScript
+## Cronômetro em JavaScript
 
 Projeto simples de cronômetro desenvolvido em JavaScript puro, praticando lógica de programação, eventos e manipulação do DOM.
 
@@ -8,7 +8,7 @@ O cronômetro permite iniciar, pausar, continuar, resetar e marcar tempos durant
 
 Este projeto foi desenvolvido com foco em aprendizado e pode ser utilizado como projeto de portfólio iniciante.
 
-##Funcionalidades
+## Funcionalidades
 
 Iniciar a contagem do tempo
 
@@ -22,7 +22,7 @@ Bloquear marcação quando o cronômetro estiver zerado
 
 Desativar o botão de marcação automaticamente quando não pode ser usado
 
-Como funciona
+## Como funciona
 
 O tempo é contado utilizando setInterval
 
@@ -36,7 +36,7 @@ HH:MM:SS:CC
 
 As marcações são armazenadas em um array e exibidas na tela
 
-##Tecnologias utilizadas
+## Tecnologias utilizadas
 
 HTML
 
@@ -44,7 +44,7 @@ CSS
 
 JavaScript (Vanilla JS)
 
-O que este projeto demonstra
+## O que este projeto demonstra
 
 Mesmo sendo um projeto simples, ele demonstra conhecimentos em:
 
@@ -58,7 +58,7 @@ Manipulação do DOM
 
 Validações básicas em JavaScript
 
-##Possíveis melhorias
+## Possíveis melhorias
 
 Bloquear marcações quando o cronômetro estiver pausado
 
